@@ -1,2 +1,3 @@
-# Python_common_codes
-The common codes of Python
+# classification and prediction
+  - Random forest
+  - Calculating F1 scores, Precision and Recall
